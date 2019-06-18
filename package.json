@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Web Testing II Guided Project",
   "author": "Lambda School",
+  "private": true,
   "homepage": "https://github.com/LambdaSchool/webtesting-ii-guided#readme",
   "keywords": [
     "testing",
